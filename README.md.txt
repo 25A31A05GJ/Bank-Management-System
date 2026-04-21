@@ -21,3 +21,7 @@ O(n)
 
 ## 🛠️ Technologies
 - C++
+
+## ▶️ How to Run
+1. Compile using g++
+2. Run the executable
